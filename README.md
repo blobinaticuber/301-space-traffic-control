@@ -1,6 +1,12 @@
 # 301-space-traffic-control
 A project for data analytics that analyzes data from Near Earth Objects (NEOs)
 
+# Questions
+1: Determine similar characteristics between asteroids and make categorizations based upon them.
+
+2: What factors go into making an asteroid potentially hazardous or not? (size, orbit, composition, etc.)
+
+
 # Setup instructions
 
 ## 1. Clone the Repository
