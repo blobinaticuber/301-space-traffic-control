@@ -9,6 +9,8 @@ A project for data analytics that analyzes data from Near Earth Objects (NEOs)
 
 # Setup instructions
 
+VSCODE - Make sure you have the Jupyter extension from microsoft installed
+
 ## 1. Clone the Repository
 ```bash
 git clone https://github.com/blobinaticuber/301-space-traffic-control.git
