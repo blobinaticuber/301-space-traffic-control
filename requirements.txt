@@ -1,5 +1,5 @@
-pandas 
-requests 
-python-dotenv 
+pandas
+requests
+python-dotenv
 sqlite-utils
 import-ipynb

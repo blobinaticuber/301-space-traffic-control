@@ -3,3 +3,4 @@ data/*.db
 data/raw/*.json
 data/raw/*.ndjson
 /.venv
+.ipynb_checkpoints
