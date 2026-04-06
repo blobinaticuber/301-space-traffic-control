@@ -104,3 +104,30 @@ From the project root:
 python3 python/analysis.py
 ```
 
+
+# Project structure
+```tree
+.
+├── data
+│   └── raw
+├── python
+│   ├── data_loader.py
+│   ├── main.ipynb
+│   ├── outputs
+│   │   ├── clustered_asteroids.csv
+│   │   ├── cluster_k_diagnostics.csv
+│   │   └── cluster_profiles.csv
+│   ├── __pycache__
+│   │   └── data_loader.cpython-313.pyc
+│   ├── q1.ipynb
+│   └── q2.ipynb
+├── README.md
+├── requirements.txt
+├── scripts
+│   └── fetch_neows.sh
+└── sql
+    ├── schema.sql
+    └── views.sql
+
+8 directories, 13 files
+```
