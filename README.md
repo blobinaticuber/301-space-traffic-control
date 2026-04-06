@@ -117,8 +117,6 @@ python3 python/analysis.py
 │   │   ├── clustered_asteroids.csv
 │   │   ├── cluster_k_diagnostics.csv
 │   │   └── cluster_profiles.csv
-│   ├── __pycache__
-│   │   └── data_loader.cpython-313.pyc
 │   ├── q1.ipynb
 │   └── q2.ipynb
 ├── README.md
